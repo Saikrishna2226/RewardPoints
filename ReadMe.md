@@ -1,6 +1,6 @@
 Technical details --> Spring Boot, Maven, H2, junit
 
-do the maven build
+the maven build
 
 start java application
 

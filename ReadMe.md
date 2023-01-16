@@ -1,6 +1,6 @@
 Technical details --> Spring Boot, Maven, H2, junit
 
-the maven build
+do the maven build
 
 start java application
 
@@ -14,3 +14,4 @@ http://localhost:8080/getRewardPoints?customerName=customer2 --> Get the custome
 output --> {"totalPoints":200,"rewards":[{"month":1,"monthPoints":110},{"month":12,"monthPoints":90}]}
 
 
+Run the junits RetailerRewardsTest.java class for unit test cases
